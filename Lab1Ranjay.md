@@ -238,3 +238,14 @@ ANSWER:
 •	Separable Transforms: These are transforms that can be broken down into simpler, one-dimensional transforms applied independently along each dimension of a multi-dimensional signal.
 o	In 2-D signal processing (e.g., image processing), separable transforms allow you to apply the transform row-by-row and then column-by-column, making computation more efficient.
 o	Example: The 2-D Discrete Fourier Transform (DFT) is separable, meaning it can be computed by first taking the 1-D DFT of each row of the image and then taking the 1-D DFT of each column.
+
+Exercise:  
+
+
+1. Find 8-point DFT of the sequence x (n) = [1 2 3 4 4 3 2 1]
+
+
+   OUTPUT:
+
+
+   ![image](https://github.com/user-attachments/assets/02d92614-4931-4faa-9be6-89471bb01e31)
